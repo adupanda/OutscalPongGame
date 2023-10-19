@@ -1,0 +1,10 @@
+﻿  EndScreen.cpp
+  MainMenu.cpp
+  Paddle.cpp
+  Ball.cpp
+  Main.cpp
+C:\Users\Asus\Documents\GitHub\OutscalPongGame\PongGame\SRC\Main.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Asus\Documents\GitHub\OutscalPongGame\PongGame\SRC\Main.cpp(26,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Asus\Documents\GitHub\OutscalPongGame\PongGame\SRC\Main.cpp(26,19): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  PongGame.vcxproj -> C:\Users\Asus\Documents\GitHub\OutscalPongGame\Debug\PongGame.exe
